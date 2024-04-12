@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "montserrat";
+  src: url("./fonts/Montserrat-Bold-1.ttf");
+}
+
+@font-face {
+  font-family: "freeroad";
+  src: url("./fonts/Freeroad\ Regular.ttf");
+}
